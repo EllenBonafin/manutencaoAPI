@@ -6,13 +6,6 @@
       "servico": 21,
       "valor": 100,
       "observacao": "Lorem ipsum dolor sit amet"      
-    },
-     {
-       "periodicidade": 0,
-       "descricao": "teste wiki2",
-       "servico": 22,
-       "valor": 200,
-       "observacao": "Lorem ipsum dolor sit amet"
      }
   ]
 }

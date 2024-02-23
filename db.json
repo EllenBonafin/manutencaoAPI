@@ -6,7 +6,7 @@
       "servico": 21,
       "valor": 100,
       "observacao": "Lorem ipsum dolor sit amet",   
-       "hodometro": 20.000  
+       "hodometro": 20000  
     },
      {
        "periodicidade": 0,
@@ -14,7 +14,7 @@
        "servico": 22,
        "valor": 200,
        "observacao": "Lorem ipsum dolor sit amet",
-       "hodometro": 50.000
+       "hodometro": 50000
      }
   ]
 }
